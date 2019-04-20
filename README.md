@@ -81,7 +81,7 @@ Reverse -up-|> GearMode #testsColor(testFields[Reverse])
 Neutral -up-|> GearMode #testsColor(testFields[Neutral])
 Drive -up-|> GearMode #testsColor(testFields[Drive])
 
-ShiftingDevice -right-> GearMode #testsColor(testFields[ShiftingDevice]): -state
+ShiftingDevice -right-> GearMode #testsColor(testFields[ShngDevice]): -state
 ShiftingDeviceUI .down.> ShiftingDevice
 
 @enduml
